@@ -1,2 +1,2 @@
-# Amazon_Web_Services_Project_with_Cybersafe_Foundation
-This is a compilations of my AWS projects as a cloud security engineer
+# Freshdesk Project
+Created a widget in freshdesk and connected it to a website
